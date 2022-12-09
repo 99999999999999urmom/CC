@@ -88,7 +88,7 @@ url = ""
 proxy_ver = "5"
 brute = False
 out_file = "proxy.txt"
-thread_num = 999999
+thread_num = 9999
 data = ""
 cookies = ""
 ###############################
