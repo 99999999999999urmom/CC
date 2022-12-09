@@ -9,7 +9,7 @@
 atk_cmd="python3 cc.py -url https://ventox.lol -v 4 -s 999"
 
 #number of process that you want
-process=20
+process=50
 
 #change the system limit
 ulimit -n 9999999
